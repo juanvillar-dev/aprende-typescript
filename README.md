@@ -33,15 +33,7 @@ El repositorio está organizado en módulos numerados. Cada carpeta representa u
 * **Pilares de POO:** Herencia (`E04`), Clases Abstractas (`E05`) e implementación de Interfaces (`E06`).
 * **Reutilización:** Aplicación de Genéricos en el contexto de orientación a objetos (`E07`).
 
-### 🗂️ 04. Organización (`c04-organizacion`)
-* Conceptos clave para modularizar y estructurar código limpio:
-  * Declaration Merging (`E00`)
-  * Decorators (`E00`)
-  * Enums (`E00`)
-  * Generics en profundidad (`E00`)
-  * Narrowing (`E00`)
-
-### 🎨 05. Patrones de Diseño (`c05-patrones-disenio`)
+### 🎨 04. Patrones de Diseño (`c05-patrones-disenio`)
 Resolución de problemas arquitectónicos comunes divididos por categorías clásicas:
 * **Creacionales:** Singleton (`E1`), Factory Method (`E2`), Abstract Factory (`E3`), Builder (`E4`) y Prototype (`E5`).
 * **Estructurales:** Adapter (`E1`), Decorator (`E2`) y Composite (`E3`).
