@@ -1,0 +1,16 @@
+{
+  "name": "c02-sintaxis-tipado",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.4",
+    "typescript": "^7.0.2",
+    "@types/node": "^22.10.0"
+  }
+}

@@ -1,0 +1,9 @@
+import "./e1-tipos-basicos.js";
+import "./e2-funciones.js";
+import "./e3-tipos-personalizados.js";
+import "./e4-interfaces.js";
+import "./e5-operadores.js";
+import "./e6-generics.js";
+import "./e7-utility-types.js";
+import "./e8-conditional-types.js";
+import "./e9-mapped-types.js";
